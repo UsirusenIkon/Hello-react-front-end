@@ -10,6 +10,7 @@
     - [Prerequisites](#prerequisites)
     - [Install \& Setup](#install--setup)
     - [Tests](#tests)
+    - [Backend Repository(PR)](#backend-repositorypr)
   - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -89,6 +90,12 @@ $ cd Hello-rails-front-end
 - no required testing involved
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Backend Repository(PR)
+
+```
+git clone https://github.com/UsirusenIkon/Hello-rails-backend/pull/1
+```
 
 <!-- AUTHORS -->
 
